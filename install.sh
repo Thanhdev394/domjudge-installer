@@ -12,9 +12,6 @@ MYSQL_PWD=FQoiwjjfQIfijf214
 PHPMYADMIN_PWD=root
 RELEASE=domjudge-8.2.2
 
-# do case insensitive comparison
-shopt -s nocasematch
-
 echo ""
 echo '####################'
 echo '  Upgrading System  '
